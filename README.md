@@ -10,3 +10,4 @@
 ## ![image](https://user-images.githubusercontent.com/54635552/178024998-be4f5379-c85a-4f43-b825-e98ebb791ca9.png)
 - Scripts/deactivate : 가상환경 종료
 - pip install -r requirements.txt : 해당 목록에 있는 라이브러리 설치하기
+
